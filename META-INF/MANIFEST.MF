@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: com.xmatters.dtappmonplugin;singleton:=true
+Bundle-Name: xMattersAppMonPlugin
+Bundle-Version: 1.0.8
+Bundle-ClassPath: .,lib/json-simple-1.1.1.jar
+Require-Bundle: com.dynatrace.diagnostics.sdk
+Bundle-ManifestVersion: 2
+Bundle-Vendor: xMatters
+

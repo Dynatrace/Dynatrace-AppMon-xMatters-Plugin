@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.2"?>
+<!-- plugin.xml file written by Dynatrace Client 7.0.0 -->
+<plugin>
+  <extension point="com.dynatrace.diagnostics.pdk.pluginconfig" id="com.xmatters.dtappmonplugin" name="xMattersAppMonPlugin">
+    <information>
+      <category value="" />
+      <displayname value="xMattersAppMonPlugin" />
+      <description value="Send Dynatrace AppMon incidents to xMatters" />
+      <supportlevel value="unsupported" />
+    </information>
+    <configuration>
+      <property key="xmURL" label="xmURL" type="url" description="xMatters inboud integration URL" default="" />
+      <property key="subject" label="subject" type="string" description="My property description ..." default="DefaultSubject" multiline="false" />
+      <property key="message" label="message" type="string" description="My property description ..." default="DefaultMessage" multiline="false" />
+    </configuration>
+  </extension>
+  <extension point="com.dynatrace.diagnostics.pdk.action" id="com.xmatters.dtappmonplugin.action" name="DynatraceAppMonPluginAction">
+    <plugin configid="com.xmatters.dtappmonplugin" class="com.xmatters.DynatraceAppMonPlugin" />
+  </extension>
+</plugin>
