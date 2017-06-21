@@ -18,7 +18,7 @@ Robert Statsinger
 **Support Level** 
 [Not Supported](https://community.dynatrace.com/community/display/DL/Support+Levels)
 
-**Download (latest version)** [binary-file-name](link-to-binary-file)
+**Download (latest version)** [com.xmatters.dtappmonplugin_1.0.8.jar](https://github.com/Dynatrace/Dynatrace-AppMon-xMatters-Plugin/releases/download/v1.0.8/com.xmatters.dtappmonplugin_1.0.8.jar)
 
 
 ## Description
