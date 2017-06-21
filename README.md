@@ -34,11 +34,11 @@ Import the Plugin into the AppMon Server. For details, please refer to the Onlin
 3. Ensure that the xmURL property is set to point to an inbound xMatters Integration 
 4. Set specific Subject and Message properties appropriate to the specific AppMon Incident Rule The following screenshots show an example configuration:
 
-![Edit_Incident_Rule_1.png](Edit_Incident_Rule_1.png)
+![images/Edit_Incident_Rule_1.png](Edit_Incident_Rule_1.png)
 
-![Edit_Incident_Rule_2.png](Edit_Incident_Rule_2.png)
+![images/Edit_Incident_Rule_2.png](Edit_Incident_Rule_2.png)
 
-![Rule_Action_Editor.png](Rule_Action_Editor.png)
+![images/Rule_Action_Editor.png](Rule_Action_Editor.png)
 
 An xMatters Communication Plan appropriate for this integration will soon be published on GitHub. This
 Comm Plan will let you set appropriate notification recipients for forwarded AppMon incidents and will
