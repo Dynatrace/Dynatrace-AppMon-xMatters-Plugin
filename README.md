@@ -40,7 +40,7 @@ Import the Plugin into the AppMon Server. For details, please refer to the Onlin
 
 ![images/Rule_Action_Editor.png](images/Rule_Action_Editor.png)
 
-An xMatters Communication Plan appropriate for this integration is available [here](https://github.com/rstatsinger/xMattersAppMonCommPlan). This
+An xMatters Communication Plan appropriate for this integration is available [here](https://github.com/rstatsinger/xm-labs-DynatraceAppMon). This
 Comm Plan will let you set appropriate notification recipients for forwarded AppMon incidents and will
 allow you to post a confirmation of the incident back into AppMon via its REST APIs.
 
