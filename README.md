@@ -10,7 +10,7 @@ xMatters Plugin Version 1.0.8
 This plugin has been built and tested against AppMon 7.0. It has not been tested against earlier versions
 
 **Author** 
-Robert Statsinger
+[Robert Statsinger] https://github.com/rstatsinger
 
 **License**
 [Dynatrace BSD](https://community.dynatrace.com/community/download/attachments/5144912/dynaTraceBSD.txt)
